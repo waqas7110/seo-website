@@ -1,0 +1,54 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 85%;
+    z-index: 1000; /* You can adjust the z-index as needed */
+    background-color: #f0eeee;
+    /* margin-right: 90%; */
+}
+.second{
+    padding-top: 4%;
+}
+.ml-auto{
+    margin-left: auto;
+}
+
+h1{
+    /* font-size: 2.25rem; */
+    font-family: Rubik,sans-serif;
+}
+.text-decoration-none{
+    color: rgb(165, 162, 159);
+    }
+
+.text-decoration-none p{
+color: rgb(165, 162, 159);
+}
+.p-3,.p-1,li,.li,.li1{
+      color: rgb(134, 126, 122); 
+    
+}
+.card{
+    /* border-radius: 35px; */
+    border-color: black;
+    border-width: 2px;
+    /* width: 90%; */
+    align-items: center;
+}
+
+
+h2{
+  font-size: 3.25rem;
+  font-family: Rubik,sans-serif;  
+}
+
+
+p{
+    /* font-size: 1.25rem;  */
+    font-family: Rubik,sans-serif;  
+  }
+
+.li1{
+    margin-left: 20px;
+}
+
